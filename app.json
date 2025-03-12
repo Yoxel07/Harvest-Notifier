@@ -1,7 +1,7 @@
 {
   "name": "Harvest Notifier",
   "description": "Automatic notification script for Slack based on Harvest data",
-  "repository": "https://github.com/Yoxel07/harvest-notifierFixed",
+  "repository": "https://github.com/Yoxel07/Harvest-Notifier",
   "keywords": [
     "harvest",
     "notification",
