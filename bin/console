@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+$: << "lib"
+
+require "bundler/setup"
+require "byebug"
+require "harvest_notifier"
+
+require "irb"
+IRB.start
